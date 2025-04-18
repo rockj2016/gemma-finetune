@@ -1,6 +1,6 @@
 
 
-## 浏览器打开 colab：https://colab.research.google.com/
+## 浏览器打开 [colab](https://colab.research.google.com/)
 
 ## 上传 代码仓库中 colab/ft-gemma.ipynb 文件
 ![](../assets/20.png)

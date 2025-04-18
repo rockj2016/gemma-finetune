@@ -1,5 +1,7 @@
 ## 服务器初始化步骤
 
+## 浏览器打开 [Autodl](https://www.autodl.com/)
+
 
 ![](../assets/1.png)
 
